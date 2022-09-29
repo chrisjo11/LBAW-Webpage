@@ -1,37 +1,6 @@
-html{
-    background-image: linear-gradient(to right, black, gray);
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 h1{
     color: rebeccapurple;
-}
-#name{
-    color: green;
-}
-#age{
-    color: rgb(0, 141, 0);
-    font-size: larger;
-}
-#location{
-    color: rgb(1, 170, 1);
-    font-size: larger;
-    font-weight: bold;
-}
-#school{
-    color: rgb(2, 204, 2);
-    font-size: larger;
-    font-weight: bold;
-    font-style: italic;
-}
-#school{
-    color: rgb(0, 226, 0);
-    font-size: larger;
-    font-weight: bold;
-    font-style: italic;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-#favsub{
-    color: rgb(42, 255, 42);
-}
-#sv{
-    color:blanchedalmond;
 }
